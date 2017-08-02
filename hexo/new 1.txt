@@ -1,0 +1,5 @@
+select b2.r_id,b2.member_no,b2.member_type,b2.direction,b2.span_no,d2.component8,d2.member_id,d2.distr_name 
+from dic_brg_struct_member_def as d2 INNER JOIN 
+				(select b1.r_id,b1.s_id,b1.member_type,b1.member_no,d1.direction,d1.span_no from brg_mbr_info as b1,
+				(SELECT s_id,bridge_id,direction,span_no,brg_type_id from brg_span_info where bridge_id=? and direction=? and span_no=?) as d1 
+				where b1.s_id=d1.s_id) as b2 on d2.member_name=b2.member_type ORDER BY b2.member_no
