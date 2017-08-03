@@ -27,6 +27,7 @@
 {% endif %}
 
 
+
 {# #238, Disable Baidu tranformation #}
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
@@ -43,7 +44,8 @@
 
 
 {% if theme.baidu_site_verification %}
-  <meta name="baidu-site-verification" content="{{ theme.baidu_site_verification }}" />
+  <meta name="baidu-site-verification" content="FhYqMMxo6L" />
+  
 {% endif %}
 
 

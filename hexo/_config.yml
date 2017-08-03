@@ -106,10 +106,12 @@ search:
   limit: 10000
 
 
+# hexo-admin authentification
+admin:
+  username: violet929
+  password_hash: $2a$10$OyirbO8vbjGKYIuV/gyFqOs4XQx/1O/SawDRn4LphYeYqjYqpgu2a
+  secret: my super secret phrase
 
-
-
-
-
+baidu-site-verification: <meta name="baidu-site-verification" content="FhYqMMxo6L" />
 
   
