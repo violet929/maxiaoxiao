@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F08%2F03%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[my-first-blog]]></title>
+    <url>%2F2017%2F07%2F14%2Fmy-first-blog%2F</url>
+    <content type="text"><![CDATA[fwef]]></content>
+      <categories>
+        <category>技术</category>
+        <category>生活</category>
+        <category>日常</category>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>博客测试</tag>
+        <tag>Tagcloud</tag>
+      </tags>
+  </entry>
+</search>
