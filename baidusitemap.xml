@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+    
+  <url>
+    <loc>http://www.maxx.site/2017/07/14/my-first-blog/</loc>
+    <lastmod>2017-08-03T06:09:51.866Z</lastmod>
+    <data>
+        <display>
+        <title>my-first-blog</title>
+        <pubTime>2017-07-14T07:41:00.000Z</pubTime>
+        
+        <tag>博客测试</tag>
+         
+        <tag>Tagcloud</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="http://www.maxx.site/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="生活" url="http://www.maxx.site/categories/%E6%8A%80%E6%9C%AF/life/"/>
+          
+             
+              <breadCrumb title="日常" url="http://www.maxx.site/categories/%E6%8A%80%E6%9C%AF/life/%E6%97%A5%E5%B8%B8/"/>
+          
+             
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.maxx.site/2017/08/03/hello-world/</loc>
+    <lastmod>2017-08-03T05:10:10.777Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-08-03T02:36:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
