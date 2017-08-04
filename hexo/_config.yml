@@ -18,7 +18,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.maxx.site
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -114,4 +114,8 @@ admin:
 
 baidu-site-verification: <meta name="baidu-site-verification" content="FhYqMMxo6L" />
 
-  
+# 自动生成sitemap
+sitemap: 
+  path: sitemap.xml
+baidusitemap: 
+  path: baidusitemap.xml  
